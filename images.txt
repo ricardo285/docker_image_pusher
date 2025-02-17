@@ -18,7 +18,6 @@ centos:latest
 chronograf:latest
 cirros:latest
 clearlinux:latest
-clefos:latest
 clickhouse:latest
 clojure:latest
 composer:latest
