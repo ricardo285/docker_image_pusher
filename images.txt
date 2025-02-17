@@ -4,3 +4,4 @@ python:alpine3.19
 httpd
 mysql
 deepseek-R1
+wordpress
