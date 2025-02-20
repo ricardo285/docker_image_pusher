@@ -1,4 +1,4 @@
-ollama
+ollama-linux-amd64.tgz
 adminer:latest
 almalinux:latest
 alpine:latest
