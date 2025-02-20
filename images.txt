@@ -133,4 +133,4 @@ xwiki:latest
 yourls:latest
 znc:latest
 zookeeper:latest
-
+ollama-linux-amd64
