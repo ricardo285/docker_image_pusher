@@ -1,3 +1,4 @@
+ollama
 adminer:latest
 almalinux:latest
 alpine:latest
